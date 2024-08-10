@@ -1,1 +1,3 @@
-// package internal
+package internal
+
+func calulator()
