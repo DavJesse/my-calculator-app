@@ -11,5 +11,5 @@ function Calculate(input) {
 }
 
 function ClearDisplay() {
-
+    display.value = "";
 }
